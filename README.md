@@ -1,4 +1,4 @@
-# On The Spot
+# Terraform, ECS and a WebApp
 
 This is terraform configuration that launches the training webapp docker container in Amazon EC2 Container Service.
 
